@@ -16,3 +16,4 @@
 
 add_lunch_combo lineage_zeroltecan-userdebug
 add_lunch_combo viper_zeroltecan-userdebug
+add_lunch_combo aosp_zeroltecan-userdebug
